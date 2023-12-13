@@ -11,7 +11,7 @@
 <?php wp_body_open(); ?>
     <!-- start page-wrapper -->
     <div class="page-wrapper">
-        <!-- start preloader -->
+        <!-- start main preloader -->
         <div class="preloader">
             <div class="vertical-centered-box">
                 <div class="content">
